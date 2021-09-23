@@ -28,6 +28,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     // these are the static resources
+    // andding links
+    // adding images
 
     private void initImageBitmaps(){
         Log.d(TAG, "initImageBitmaps: preparing bitmaps");
