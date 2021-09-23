@@ -28,12 +28,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     // these are the static resources
-<<<<<<< HEAD
     // setting images titles
-=======
-
-
->>>>>>> develop
     private void initImageBitmaps(){
         Log.d(TAG, "initImageBitmaps: preparing bitmaps");
 
