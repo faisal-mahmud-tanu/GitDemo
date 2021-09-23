@@ -32,6 +32,7 @@ public class Gallery extends AppCompatActivity {
 
     }
 
+    //loading images with glide
     public void setImages(String url, String imageDescription){
         image= findViewById(R.id.gallery_imageId);
         description= findViewById(R.id.image_description);
