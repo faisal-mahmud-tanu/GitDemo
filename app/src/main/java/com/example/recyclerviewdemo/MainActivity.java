@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     // these are the static resources
-    // andding links
+    // adding links
     // adding images
 
     private void initImageBitmaps(){
@@ -42,10 +42,10 @@ public class MainActivity extends AppCompatActivity {
         mNames.add("de Ja Vu");
 
         mImageUrls.add("https://i.redd.it/zyuov8cunxf61.jpg");
-        mNames.add("Galaxy");
+        mNames.add("Galaxy circle ");
 
         mImageUrls.add("https://i.redd.it/zhfuqf1qsvd61.jpg");
-        mNames.add("Girl");
+        mNames.add("Girl in hat");
 
         mImageUrls.add("https://i.redd.it/oj15jevewwf61.png");
         mNames.add("de Ja Vu");
